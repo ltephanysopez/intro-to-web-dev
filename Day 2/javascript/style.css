@@ -1,0 +1,63 @@
+/* purple background color */
+body {
+  background-color: #624dc1;
+  margin-top:100px;
+}
+
+/* this class selector "container" is what is holding all our ice creams! */
+.container {
+  width: 800px;
+  max-width: 90%;
+  margin: auto;
+  background-color: rgba(255, 255, 255, 0.2);
+  margin-top: 0;
+  border-radius: 20px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr
+}
+
+.item {
+  border-radius: 10px;
+  text-align: center;
+  background-color: #d5ccff;
+  padding: 10px;
+  margin: 20px;
+  transition: 0.2s;
+}
+
+.ice-cream {
+  font-size: 100px;
+}
+
+.active {
+  box-shadow: 0 0 35px white;
+}
+
+.hidden {
+  display: none;
+}
+
+#clicker {
+  color: white;
+  font-weight: bold;
+}
+
+.header {
+  color: white;
+  text-align: center;
+  font-family: Helvetica;
+}
+
+#bottom {
+  width: 800px;
+  max-width: 90%;
+  margin: auto;
+  background-color: rgba(255, 255, 255, 0.2);
+  margin-top: 0;
+  border-radius: 20px;
+  text-align: center;
+}
+
+img {
+  width: 80%;
+}
