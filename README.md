@@ -9,4 +9,4 @@ Throughout this bootcamp you’ll learn the fundamental blocks of web developmen
 - Day 4: Project Building
 - Day 5: Project Building/Presentations
 
-For an in-depth lesson plan on introductory web development, please refer to the documentation I wrote throughout this course [here]() :)
+For an in-depth lesson plan on introductory web development, please refer to the documentation I wrote throughout this course [here](https://github.com/ltephanysopez/crew-camp/tree/master/docs) :)
