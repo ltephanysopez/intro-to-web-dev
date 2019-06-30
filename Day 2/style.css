@@ -1,0 +1,39 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: "Benton Sans", "Helvetica Neue", helvetica, arial, sans-serif;
+  margin: 2em;
+}
+
+h1 {
+  font-size:3em;
+  font-family: 'Lato', sans-serif;
+  color: #424242;
+}
+
+h2 {
+  font-family: 'Lato', sans-serif;
+}
+
+img {
+  width:250px;
+  height:250px;
+}
+
+#logo {
+  width:50px;
+  height:50px;
+}
+
+.grid {
+  display: grid;
+  /* to create our grid, we'll declare a value for each column we want in our grid. in the example below,
+     we're telling our css that we would like 3 columns, and each of them will be 250px wide */
+  grid-template-columns:250px 250px 250px;
+  /* similar to creating our columns, each value in the grid-template-rows property determines how the
+     height of each row in our grid */
+  grid-template-rows:250px 250px 250px;
+  /* finally, the grid-gap property determines how much spacing we would like in between each
+     element in our grid */
+  grid-gap:15px;
+}
