@@ -1,0 +1,37 @@
+/* CSS allows us to modify and style elements from our HTML
+ page with properties and values. In the statement below,
+ we're saying we want anything inside the body element
+to have a background color of #eee (which is a light gray) */
+body {
+  background-color:#eee;
+  margin:60px;
+}
+
+h2 {
+  color: blue;
+  font-family:Shrikhand;
+}
+
+/* The class selector is represented by a period (.) symbol,
+and uses the class attribute of an HTML element to select
+a group of specific elements. Since we want all names that
+begin with an A to be in red, we'll specify those values
+in this class selector. */
+.a-team {
+  color:red;
+  font-family:Impact;
+}
+
+/* The id selector is represented by a hashtag (#) symbol,
+and uses the id attribute of an HTML element to select a
+specific element. This differs from class selectors, where
+id selectors are only used to change ONE element */
+#andrea {
+  border-style:solid;
+  border-width:5px;
+  border-color: red green blue yellow;
+}
+
+/* Because the <h2> tag that says "Andrea" has an ID and
+ not a class selector, it is not styled with the other
+ names that begin with an A */
