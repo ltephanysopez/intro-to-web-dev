@@ -9,11 +9,9 @@ Throughout this bootcamp you’ll learn the fundamental blocks of web developmen
 - Day 4: Project Building
 - Day 5: Project Building/Presentations
 
-For an in-depth lesson plan on introductory web development, please refer to the documentation I wrote throughout this course [here](https://github.com/ltephanysopez/web-dev-intro/blob/master/docs/coding-bootcamp-doc.pdf) :)
+For an in-depth lesson plan on introductory web development, please refer to the guide I wrote for this bootcamp [here](https://github.com/ltephanysopez/web-dev-intro/blob/master/docs/coding-bootcamp-doc.pdf) :)
 
-* An important thing to note is that all this material was taught in three 6-hour days, to a group of incredibly talented high school students. If you're looking for more advanced materials on web design and development, I recommend the following resources: 
+> An important thing to note is that all this material was taught in three 6-hour days, to a group of incredibly talented high school students. If you're looking for more advanced materials on web design and development, I recommend the following resources: 
 - [JavaScript & jQuery - Interactive Web Development](http://javascriptbook.com/)
 - [JavaScript: The Definitive Guide](https://www.amazon.com/JavaScript-Definitive-Guide-Activate-Guides/dp/0596805527)
 - [Advanced CSS](https://www.edx.org/course/advanced-css-concepts-3)
-
-If you enjoyed this material, feel free to star this repo! 
